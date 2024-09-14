@@ -9,7 +9,7 @@ http.createServer(function (request, response) {
 
    // Send the response body as "Hello Ya'll from Mikeyrat Formicaman!!"
    response.end('Hello Yall from Mikeyrat Formicaman!! Newly Modified for Ansible assignment!\n')
-}).listen(3333)
+}).listen(3000)
 
 // Console will print the message
 console.log('Server running')

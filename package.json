@@ -1,0 +1,12 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "A simple Node.js hello world app",
+  "main": "helloworld.js",
+  "scripts": {
+    "start": "node helloworld.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"  // Add any other dependencies here
+  }
+}
